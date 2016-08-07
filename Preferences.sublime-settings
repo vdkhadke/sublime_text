@@ -1,0 +1,14 @@
+{
+    "binary_file_patterns": [".gitignore",".svn"],
+    "bold_font_labels": true,
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "font_face": "Consolas",
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+    "tab_size": 2
+}
